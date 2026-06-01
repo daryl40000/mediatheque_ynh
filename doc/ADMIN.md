@@ -31,6 +31,10 @@ Set in `/etc/php/__PHP_VERSION__/fpm/pool.d/__APP__.conf`:
 | `MONCINE_TRUST_PROXY` | `1` — real client IP behind YunoHost Nginx |
 | `MONCINE_MAIL_FROM` | Mail sender (`mediatheque@…`) |
 
+## PDF magazines (Poppler)
+
+The package installs **poppler-utils**: `pdftotext` (first 6 pages text for search), `pdftoppm` (cover), `pdfinfo` (page count).
+
 ## Large uploads (PDF magazines)
 
 The package sets **400M** for `upload_max_filesize` / `post_max_size`, **512M** for `memory_limit`, and Nginx `client_max_body_size` to **400M** (the app allows up to **350M** per file).

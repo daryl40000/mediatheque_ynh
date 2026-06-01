@@ -6,7 +6,8 @@ Installez Médiathèque à la **racine du domaine** (`/`) si possible. L’appli
 
 - PHP 8.2+ (PHP 8.4 fourni par le paquet)
 - Extension SQLite3
-- Environ **200 Mo** d’espace disque pour le code et les données de base
+- **poppler-utils** (`pdftotext`, `pdftoppm`, `pdfinfo`) pour les magazines PDF (recherche, couverture auto)
+- Environ **300 Mo** d’espace disque pour le code et les données de base
 
 ## Multi-instance
 

@@ -23,6 +23,7 @@
 - Comptes, inscription publique, foyers, amis et groupes
 - Import / export CSV, sauvegarde SQLite (admin)
 - Stockage médias hors `www/` (`MONCINE_MEDIA_PATH`)
+- Magazines PDF : **poppler-utils** (`pdftotext`, `pdftoppm`, `pdfinfo`) installé par le paquet
 
 ## Avertissements
 

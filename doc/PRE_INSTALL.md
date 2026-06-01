@@ -6,7 +6,8 @@ Install Médiathèque at the **domain root** (`/`) when possible. The app uses a
 
 - PHP 8.2+ (PHP 8.4 provided by the package)
 - SQLite3 extension
-- About **200 MB** disk space for code and basic data
+- **poppler-utils** (`pdftotext`, `pdftoppm`, `pdfinfo`) for PDF magazines (search, auto cover)
+- About **300 MB** disk space for code and basic data
 
 ## Multi-instance
 

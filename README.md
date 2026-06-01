@@ -23,6 +23,7 @@
 - Accounts, public registration, households, friends & groups
 - CSV import/export, SQLite backup (admin)
 - Media storage outside `www/` (`MONCINE_MEDIA_PATH`)
+- PDF magazines: **poppler-utils** (`pdftotext`, `pdftoppm`, `pdfinfo`) installed by the package
 
 ## Warnings
 
