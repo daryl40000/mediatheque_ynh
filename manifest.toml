@@ -7,7 +7,7 @@ name = "Médiathèque"
 description.fr = "Médiathèque personnelle : films, envies, magazines, jeux vidéo, livres, BD…"
 description.en = "Personal media library: movies, wishlist, magazines, video games, books, comics…"
 
-version = "0.2.1~ynh1"
+version = "0.2.1~ynh2"
 
 maintainers = ["Stéphane MATER"]
 
