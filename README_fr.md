@@ -6,13 +6,13 @@
 *[English readme](./README.md)*
 
 > Ce paquet permet d’installer **Médiathèque** sur un serveur [YunoHost](https://yunohost.org).  
-> Il embarque l’application [Moncine](https://github.com/daryl40000/Moncine) (moteur PHP actuel, en évolution vers une médiathèque complète).
+> Il embarque l’application [Moncine](https://github.com/daryl40000/mediatheque) (moteur PHP actuel, en évolution vers une médiathèque complète).
 
 ## Vue d’ensemble
 
 **Médiathèque** est une application web pour gérer une **collection personnelle de médias** : films, envies, notes, enrichissement TMDB, import/export CSV, comptes utilisateurs, foyers, prêts entre amis, partage visiteur, questionnaire du soir, listes imprimables, stockage de médias volumineux (magazines PDF, etc.).
 
-**Version incluse :** 1.0.5 ([release upstream](https://github.com/daryl40000/Moncine/releases/tag/1.0.5))
+**Version incluse :** 0.3.0 ([release upstream](https://github.com/daryl40000/mediatheque/releases/tag/0.3.0))
 
 > **Note technique :** le code upstream utilise encore les noms `moncine.db` et les variables `MONCINE_*` ; le paquet YunoHost s’identifie comme `mediatheque` pour ne pas entrer en conflit avec un éventuel paquet `moncine`.
 
@@ -43,7 +43,7 @@ Puis ouvrez `https://votre-domaine/premier-compte.php`.
 
 ## Liens
 
-- Application upstream : <https://github.com/daryl40000/Moncine>
+- Application upstream : <https://github.com/daryl40000/mediatheque>
 - Documentation packaging YunoHost : <https://yunohost.org/packaging_apps>
 
 ## Développement du paquet

@@ -45,8 +45,8 @@ ram.runtime = "100M"
     [resources.sources]
 
     [resources.sources.main]
-    url = "https://github.com/daryl40000/mediatheque/archive/refs/tags/0.2.5.tar.gz"
-    sha256 = "ed2828f7788855fc46dcb2c2aec26e3aa633dd717825d77e0a6dd03114d83333"
+    url = "https://github.com/daryl40000/mediatheque/archive/refs/tags/0.3.0.tar.gz"
+    sha256 = "6fc67dfe0923bc5418dc923294771b58330c3761b50cc8404fdb761bed2af17c"
     autoupdate.strategy = "latest_github_tag"
 
     [resources.system_user]

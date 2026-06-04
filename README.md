@@ -6,13 +6,13 @@
 *[Lire ce readme en français](./README_fr.md)*
 
 > This package installs **Médiathèque** on a [YunoHost](https://yunohost.org) server.  
-> It bundles the [Moncine](https://github.com/daryl40000/Moncine) PHP app (current engine, evolving toward a full personal media library).
+> It bundles the [Moncine](https://github.com/daryl40000/Mediatheque) PHP app (current engine, evolving toward a full personal media library).
 
 ## Overview
 
 **Médiathèque** is a web app to manage a **personal media collection**: movies, wishlist, ratings, TMDB enrichment, CSV import/export, user accounts, households, loans, visitor sharing, evening quiz, printable lists, and large media storage (PDF magazines, etc.).
 
-**Bundled version:** 1.0.5 ([upstream release](https://github.com/daryl40000/Moncine/releases/tag/1.0.5))
+**Bundled version:** 0.3.0 ([upstream release](https://github.com/daryl40000/mediatheque/releases/tag/0.3.0))
 
 > **Technical note:** upstream still uses `moncine.db` and `MONCINE_*` environment variables. The YunoHost package id is `mediatheque` so it does not conflict with a separate `moncine` package.
 
