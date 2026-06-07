@@ -12,7 +12,7 @@
 
 **Médiathèque** est une application web pour gérer une **collection personnelle de médias** : films, envies, notes, enrichissement TMDB, import/export CSV, comptes utilisateurs, foyers, prêts entre amis, partage visiteur, questionnaire du soir, listes imprimables, stockage de médias volumineux (magazines PDF, etc.).
 
-**Version incluse :** 0.3.0 ([release upstream](https://github.com/daryl40000/mediatheque/releases/tag/0.3.0))
+**Version incluse :** 0.3.2 ([release upstream](https://github.com/daryl40000/mediatheque/releases/tag/0.3.2))
 
 > **Note technique :** le code upstream utilise encore les noms `moncine.db` et les variables `MONCINE_*` ; le paquet YunoHost s’identifie comme `mediatheque` pour ne pas entrer en conflit avec un éventuel paquet `moncine`.
 
