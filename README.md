@@ -12,7 +12,7 @@
 
 **Médiathèque** is a web app to manage a **personal media collection**: movies, wishlist, ratings, TMDB enrichment, CSV import/export, user accounts, households, loans, visitor sharing, evening quiz, printable lists, and large media storage (PDF magazines, etc.).
 
-**Bundled version:** 0.6.4 ([upstream release](https://github.com/daryl40000/mediatheque/releases/tag/0.6.1))
+**Bundled version:** 0.6.5 ([upstream release](https://github.com/daryl40000/mediatheque/releases/tag/0.6.1))
 
 > **Technical note:** upstream still uses `moncine.db` and `MONCINE_*` environment variables. The YunoHost package id is `mediatheque` so it does not conflict with a separate `moncine` package.
 
